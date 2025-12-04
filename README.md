@@ -1,5 +1,9 @@
 # 🎭 India’s Got Latent  
-### Voice-First 3D Improv Battle — Murf AI Voice Agent Challenge (Day 10)
+### Voice-First 3D Improv Battle — Murf's Got Latent
+
+## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/MqjIZV65QaA/maxresdefault.jpg)](https://youtu.be/MqjIZV65QaA)
 
 **India’s Got Latent** is a fully immersive, voice-controlled 3D improv game show.  
 Instead of a normal chatbot, you perform on a **real-time 3D stage**, where an AI Host (LLM + ultra-low latency TTS) interacts with you like a real Indian reality show judge.
