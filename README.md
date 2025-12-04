@@ -1,7 +1,7 @@
 # 🎭 Murf’s Got Latent  
 ### Voice-First 3D Improv Battle — Murf's Got Latent
 
-## 🎥 Demo Video
+## 🎥 Demo Video (Click on Thumbnail to Watch Demo)
 
 [![Watch the video](https://img.youtube.com/vi/MqjIZV65QaA/maxresdefault.jpg)](https://youtu.be/MqjIZV65QaA)
 
