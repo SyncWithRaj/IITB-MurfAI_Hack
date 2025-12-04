@@ -1,11 +1,11 @@
-# 🎭 India’s Got Latent  
+# 🎭 Murf’s Got Latent  
 ### Voice-First 3D Improv Battle — Murf's Got Latent
 
 ## 🎥 Demo Video
 
 [![Watch the video](https://img.youtube.com/vi/MqjIZV65QaA/maxresdefault.jpg)](https://youtu.be/MqjIZV65QaA)
 
-**India’s Got Latent** is a fully immersive, voice-controlled 3D improv game show.  
+**Murf’s Got Latent** is a fully immersive, voice-controlled 3D improv game show.  
 Instead of a normal chatbot, you perform on a **real-time 3D stage**, where an AI Host (LLM + ultra-low latency TTS) interacts with you like a real Indian reality show judge.
 
 The system listens to your performance, evaluates your creativity, and responds instantly with roasts, praise, applause, and dynamic stage lighting — all lip-synced and animated.
@@ -77,8 +77,8 @@ After each scene:
 ### **1. Clone the Repository**
 
 ```
-git clone https://github.com/your-username/indias-got-latent.git
-cd indias-got-latent
+git clone https://github.com/SyncWithRaj/IITB-MurfAI_Hack.git
+cd IITB-MurfAI_Hack
 ```
 
 ## Install Dependencies
